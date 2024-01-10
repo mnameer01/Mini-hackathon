@@ -1,0 +1,25 @@
+.header-locaton{
+    background-color: #5c2e92 !important;
+    color: white;
+}
+.header-location2{
+    text-decoration: none;
+    color: white;
+    background-color: #5c2e92;
+    display: block;
+    padding: 8px;
+    font-family: BebasNeue,sans-serif;
+    font-weight: bold;
+}
+.header-info{
+    float: left;
+}
+.span-1{
+    color: #5c2e92;
+    font-size: 12px;
+    font-weight: bold;
+}
+.header-locaton1{
+    background-color: #5c2e92 !important;
+    color: white;
+}
